@@ -29,3 +29,9 @@ Claude: Just hit me up on Telegram, I'll sort it out.
 Him: I don't have Telegram...
 
 Claude: ... This does not bode well.
+
+---
+
+## Tools
+
+- **[ctop](https://github.com/aakashadesara/ctop)** — htop for AI coding agents. Monitor Claude Code and Codex CLI sessions with real-time CPU, memory, token usage, context window tracking, and cost estimates. Zero dependencies, pure Node.js. ([Homepage](https://aakashadesara.github.io/ctop/))
